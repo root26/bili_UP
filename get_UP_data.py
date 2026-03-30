@@ -10,7 +10,7 @@ from typing import Dict, Any
 
 
 DEFAULT_OUTPUT_PATH = "./bili/UP_data.json"  # 默认输出文件路径
-DEFAULT_MID = 0000000  # 默认用户ID
+DEFAULT_MID = 3546602973169693  # 默认用户ID
 
 
 async def fetch_single_api(url: str, params: Dict[str, Any]) -> Dict[str, Any]:
