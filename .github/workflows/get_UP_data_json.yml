@@ -30,7 +30,7 @@ jobs:
       
       - name: 数据获取
         run: |
-          python get_UP_data.py -m 357695126
+          python get_UP_data.py -m 3546602973169693
       
       - name: 提交更新的数据文件
         run: |
